@@ -1,3 +1,3 @@
 from add import add
 
-print(add(1, 2))
+print(add(2, 2))
